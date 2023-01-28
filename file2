@@ -1,1 +1,5 @@
-my name is aman .
+<<<<<<< HEAD
+my name is aman and
+=======
+this is my unneccessary file.
+>>>>>>> branch1
